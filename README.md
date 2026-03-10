@@ -143,11 +143,10 @@ Node.js • Express • Socket.IO • JavaScript • HTML • CSS
 <img src="https://streak-stats.demolab.com?user=pranjul075&theme=tokyonight"/>
 </p>
 
----
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranjul075&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pranjul075&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 # 📈 Contribution Graph
