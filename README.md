@@ -144,14 +144,11 @@ Node.js • Express • Socket.IO • JavaScript • HTML • CSS
 </p>
 
 ---
-
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranjul075&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pranjul075&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
----
 
 # 📈 Contribution Graph
 
