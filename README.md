@@ -92,11 +92,24 @@ AI-powered system that:
 • generates AI interview questions  
 • creates ATS-optimized resumes  
 
-Tech used:
-
+**Tech used:**  
 Node.js • Express • Google Gemini API • Prompt Engineering • Puppeteer
 
 ---
+
+### 💻 Real-Time Code Editor
+
+A collaborative coding platform that allows multiple users to write and edit code together in real-time.
+
+Features:
+
+• real-time collaborative editing  
+• instant code synchronization between users  
+• live typing updates using WebSockets  
+• clean and interactive coding interface  
+
+**Tech used:**  
+Node.js • Express • Socket.IO • JavaScript • HTML • CSS
 
 ### ⚙️ Backend API Project
 
@@ -115,17 +128,13 @@ Node.js • Express • Google Gemini API • Prompt Engineering • Puppeteer
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranjul075&show_icons=true&theme=tokyonight" height="180"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranjul075&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjul075&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranjul075&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -172,9 +181,8 @@ Node.js • Express • Google Gemini API • Prompt Engineering • Puppeteer
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pranjul075/pranjul075/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/pranjul075/pranjul075/output/github-contribution-grid-snake.svg"/>
 </p>
-
 ---
 
 # 🎯 Current Goal
