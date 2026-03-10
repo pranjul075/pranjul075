@@ -146,7 +146,7 @@ Node.js • Express • Socket.IO • JavaScript • HTML • CSS
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranjul075&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy-git-master-rzashakeri.vercel.app/?username=pranjul075&theme=tokyonight&no-frame=true&margin-w=4"/>
 </p>
 
 # 📈 Contribution Graph
