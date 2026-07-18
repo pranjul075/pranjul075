@@ -21,7 +21,7 @@ India
 
 # 👨‍💻 About Me
 
-I am a **Computer Science student passionate about Artificial Intelligence and Backend Development**.
+I am a **Computer Science student passionate about Artificial Intelligence and Full Stack Development**.
 
 I enjoy building **real-world projects**, learning how systems work end-to-end, and exploring how **AI can solve practical problems**.
 
