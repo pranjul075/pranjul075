@@ -1,135 +1,141 @@
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pranjul%20Katiyar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi+I'm+Pranjul+Katiyar;AI+Engineer+in+Progress;Backend+Developer;Building+AI+Projects+🚀;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi+I'm+Pranjul+Katiyar;AI+Engineer;Backend+Developer;Building+AI+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<h1 align="center">Hi 👋 I'm Pranjul Katiyar</h1>
-<h3 align="center">🚀 Aspiring AI Engineer | Backend Developer</h3>
+<h1 align="center">Hi, I'm Pranjul Katiyar</h1>
+<h3 align="center">AI • Backend • Full Stack Developer</h3>
 
 <p align="center">
-🎓 Third-Year Computer Science Student <br>
-🤖 Passionate about Artificial Intelligence & Backend Systems <br>
-📍 India
+Fourth-Year Computer Science Student <br>
+Building AI-powered applications and scalable backend systems <br>
+India
 </p>
 
 ---
 
-# 👨‍💻 Developer Animation
+# 👨‍💻 About Me
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
----
-
-# 🧠 About Me
-
-💡 I am a **Computer Science student passionate about Artificial Intelligence and Backend Development**.
+I am a **Computer Science student passionate about Artificial Intelligence and Backend Development**.
 
 I enjoy building **real-world projects**, learning how systems work end-to-end, and exploring how **AI can solve practical problems**.
 
-### Currently focused on
+### 🎯 Currently Focused On
 
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧠 Deep Learning Fundamentals  
-- ⚙️ Backend Development with Node.js  
-- 📊 Data Analysis with Python  
+- Artificial Intelligence & Machine Learning
+- Deep Learning Fundamentals
+- Backend Development with Node.js
+- Data Analysis with Python
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,react" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis" />
 </p>
 
-### Tools
+### 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" />
+</p>
+
+### 🔗 APIs & Libraries
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+
 </p>
 
 ---
 
 # 📂 Featured Projects
 
-### 🤖 AI Interview Preparation Platform
+### AI Interview Preparation Platform
 
 AI-powered system that:
 
-• analyzes resumes and job descriptions  
-• detects skill gaps  
-• generates AI interview questions  
-• creates ATS-optimized resumes  
+- analyzes resumes and job descriptions
+- detects skill gaps
+- generates AI interview questions
+- creates ATS-optimized resumes
 
-**Tech used:**  
+**Tech Used**
+
 Node.js • Express • Google Gemini API • Prompt Engineering • Puppeteer
 
 ---
 
-### 💻 Real-Time Code Editor
+### Real-Time Code Editor
 
-A collaborative coding platform that allows multiple users to write and edit code together in real-time.
+A collaborative coding platform that allows multiple users to write and edit code together in real time.
 
 Features:
 
-• real-time collaborative editing  
-• instant code synchronization between users  
-• live typing updates using WebSockets  
-• clean and interactive coding interface  
+- real-time collaborative editing
+- instant code synchronization
+- live typing updates using WebSockets
+- clean and interactive coding interface
 
-**Tech used:**  
+**Tech Used**
+
 Node.js • Express • Socket.IO • JavaScript • HTML • CSS
 
-### ⚙️ Backend API Project
+---
 
-• authentication systems  
-• REST APIs  
-• database integration  
-• scalable backend architecture
+### Backend API Project
+
+- authentication systems
+- REST APIs
+- database integration
+- scalable backend architecture
 
 ---
 
-### 📊 Machine Learning Practice
+### Machine Learning Practice
 
-• data preprocessing  
-• model training  
-• evaluation techniques  
+- data preprocessing
+- model training
+- evaluation techniques
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranjul075&show_icons=true&theme=tokyonight" height="180"/>
@@ -137,17 +143,23 @@ Node.js • Express • Socket.IO • JavaScript • HTML • CSS
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranjul075&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pranjul075&theme=tokyonight"/>
 </p>
 
-## 🏆 GitHub Achievements
+---
+
+# 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy-git-master-rzashakeri.vercel.app/?username=pranjul075&theme=tokyonight&no-frame=true&margin-w=4"/>
 </p>
+
+---
 
 # 📈 Contribution Graph
 
@@ -157,7 +169,7 @@ Node.js • Express • Socket.IO • JavaScript • HTML • CSS
 
 ---
 
-# 📊 3D GitHub Metrics
+# 📋 GitHub Metrics
 
 <p align="center">
 
@@ -180,12 +192,16 @@ Node.js • Express • Socket.IO • JavaScript • HTML • CSS
 <p align="center">
 <img src="https://raw.githubusercontent.com/pranjul075/pranjul075/output/github-contribution-grid-snake.svg"/>
 </p>
+
 ---
 
 # 🎯 Current Goal
 
-> Become a **Skilled AI Engineer** by mastering  
-Machine Learning • Backend Systems • AI Product Development
+Become a **Skilled AI Engineer** by mastering:
+
+- Machine Learning
+- Backend Systems
+- AI Product Development
 
 ---
 
@@ -209,12 +225,16 @@ Machine Learning • Backend Systems • AI Product Development
 
 ---
 
-# 👀 Profile Visitors
+#  Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pranjul075&label=Profile%20views&color=00ff9c&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=pranjul075&label=Profile%20Views&color=00ff9c&style=flat"/>
 </p>
 
 ---
 
-⭐ **Always Learning • Always Building • Always Improving**
+<p align="center">
+
+### **Always Learning • Always Building • Always Improving**
+
+</p>
